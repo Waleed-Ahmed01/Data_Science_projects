@@ -1,2 +1,3 @@
 # hello-world
-a repository
+ HEllo people,
+ I am a data science lover 
